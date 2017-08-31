@@ -1,0 +1,10 @@
+This goal of this project is to perform sentiment analysis using NLP and Doc2Vec and compare the results.
+
+The NLP technique involves extracting important words and the feature vectors are inary vectors.
+Doc2Vec is a technique where document vectors are learned using artificial neural networks. The vectors are formed in such a way that similar sentences have similar vector representations and the dimensionality of the vectors is significantly reduced compared to binary vectors.
+
+The dataset used is the publicly available IMDB movie review and Twitter sentiment datasets.
+
+Classifiers used for sentiment prediction are Naive Bayes and Logistic Regression.
+
+More details about the methods and the functions can be found in the comments in sentiment.py
