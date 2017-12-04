@@ -1,3 +1,6 @@
+All info about project can be found in the iPython notebook. 
+
+
 Music Listening Dataset
 Audioscrobbler.com
 6 May 2005
